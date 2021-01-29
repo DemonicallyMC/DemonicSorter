@@ -25,6 +25,7 @@ build
 .gradle
 gradle/
 classes/
+gradlew*
 
 # other
 eclipse
