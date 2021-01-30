@@ -1,2 +1,3 @@
-# Demonically
- A minecraft mod created using [fabric](https://fabricmc.net/).
+## Demonic Sorter - A DemonicallyMC Project
+ A minecraft inventory sorting mod created using
+ [fabric mod loader](https://fabricmc.net/).
