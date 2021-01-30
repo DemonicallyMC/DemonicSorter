@@ -10,7 +10,5 @@ public class Demonically implements ModInitializer {
         // Proceed with mild caution.
 
         System.out.println("Hello Fabric world!");
-        System.out.println("Hello Fabric world!");
-
     }
 }
