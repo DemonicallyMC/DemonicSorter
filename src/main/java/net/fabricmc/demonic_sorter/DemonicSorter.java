@@ -1,8 +1,8 @@
-package net.fabricmc.demonically;
+package net.fabricmc.demonic_sorter;
 
 import net.fabricmc.api.ModInitializer;
 
-public class Demonically implements ModInitializer {
+public class DemonicSorter implements ModInitializer {
     @Override
     public void onInitialize() {
         // This code runs as soon as Minecraft is in a mod-load-ready state.

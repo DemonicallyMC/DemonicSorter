@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "demonically",
+  "id": "demonic_sorter",
   "version": "0.0.1",
 
-  "name": "Demonically",
-  "description": "",
+  "name": "Demonic Sorter",
+  "description": "A fully customizable inventory sorter.",
   "authors": [
     "Hassan Abouelela",
     "Xithrius",
@@ -14,20 +14,20 @@
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/HassanAbouelela/demonically"
+    "sources": "https://github.com/DemonicallyMC/DemonicSorter"
   },
 
   "license": "MIT",
-  "icon": "assets/demonically/icon.png",
+  "icon": "assets/demonically_mc/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.demonically.Demonically"
+      "net.fabricmc.demonic_sorter.DemonicSorter"
     ]
   },
   "mixins": [
-    "demonically.mixins.json"
+    "demonic_sorter.mixins.json"
   ],
 
   "depends": {
